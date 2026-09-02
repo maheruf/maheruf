@@ -3,7 +3,10 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Max Maheruf</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;JavaScript+%26+TypeScript+Enthusiast;Game+Modder+%26+Alpha+Tester;Exploring+Local+AI+%26+Networking" alt="Typing SVG" />
+</div>
 
 <p align="center">
   Welcome to my GitHub! I am focused on building clean, efficient, and user-friendly web applications, with a strong interest in networking and local AI models. Let's code, design, innovate, and solve.
