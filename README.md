@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./max-maheruf-profile-banner.png" alt="Max Maheruf Profile Banner" width="100%" />
+  <img src="./banner/max-maheruf-profile-banner.png" alt="Max Maheruf Profile Banner" width="100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Max Maheruf</h1>
@@ -16,9 +16,9 @@
 - 🔭 I’m currently focusing my studies on web development using **JavaScript** and **TypeScript**.
 - ⚙️ I enjoy configuring and optimizing network hardware, such as setting up multi-WAN load balancing and failover on **OpenWrt** single-board computers.
 - 🤖 I spend time exploring and running local large language models (using tools like **llamafile**) on custom hardware setups.
-- 🎮 I have previous experience contributing to game development as an alpha-tester and in sound engineering.
+- 🎮 I have experience as an **Alpha Tester** for **Men of War II** by [Best Way](https://bestway.com.ua/), where I provided direct feedback on UI/UX improvements, gameplay testing, bug fixing and also sound engineering.
+- 🛠️ I actively develop **Steam community mods** for GEM engine titles, including *Men of War II* and *Call to Arms* by DigitalMindsoft.
 - 📝 I use **Notion** and **Discord** to document and share my programming revision notes.
-- ⚡ **Fun fact:** I love community game modding for real-time strategy games!
 
 ---
 
@@ -38,12 +38,35 @@
   <a href="https://openwrt.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="openwrt" width="40" height="40"/> </a>
 </p>
 
+**Game Development:**
+<p align="left">
+  <a href="https://bestway.com.ua/engines/" target="_blank" rel="noreferrer">
+    <img src="./banner/gem-engine-logo.png" alt="GEM Engine" height="40" />
+  </a>
+</p>
+
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheruf&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maheruf&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheruf&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/maheruf-al-monsur-508701161/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Maheruf" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:maheruf.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
