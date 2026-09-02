@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./max-maheruf-profile-banner.png" alt="Max Maheruf Profile Banner" width="100%" />
+  <img src="./banner/max-maheruf-profile-banner.png" alt="Max Maheruf Profile Banner" width="100%" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Max Maheruf</h1>
