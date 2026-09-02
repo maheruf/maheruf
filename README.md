@@ -38,6 +38,13 @@
   <a href="https://openwrt.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="openwrt" width="40" height="40"/> </a>
 </p>
 
+**Game Development:**
+<p align="left">
+  <a href="https://bestway.com.ua/engines/" target="_blank" rel="noreferrer">
+    <img src="./banner/gem-engine-logo.png" alt="GEM Engine" height="40" />
+  </a>
+</p>
+
 ---
 
 ### 📊 GitHub Stats
