@@ -43,7 +43,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheruf&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=maheruf&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheruf&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheruf&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
