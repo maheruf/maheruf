@@ -16,9 +16,11 @@
 - 🔭 I’m currently focusing my studies on web development using **JavaScript** and **TypeScript**.
 - ⚙️ I enjoy configuring and optimizing network hardware, such as setting up multi-WAN load balancing and failover on **OpenWrt** single-board computers.
 - 🤖 I spend time exploring and running local large language models (using tools like **llamafile**) on custom hardware setups.
+- 🎯 Long-term goal: becoming a confident **Full Time Game-Developer**
 - 🎮 I have experience as an **Alpha Tester** for **Men of War II** by [Best Way](https://bestway.com.ua/), where I provided direct feedback on UI/UX improvements, gameplay testing, bug fixing and also sound engineering.
 - 🛠️ I actively develop **Steam community mods** for GEM engine titles, including *Men of War II* and *Call to Arms* by DigitalMindsoft.
 - 📝 I use **Notion** and **Discord** to document and share my programming revision notes.
+- 📬 Reach me at **maheruf.dev@gmail.com**
 
 ---
 
@@ -36,6 +38,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/> </a>
   <a href="https://openwrt.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="openwrt" width="40" height="40"/> </a>
+  <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/> </a>
 </p>
 
 **Game Development:**
@@ -65,6 +68,9 @@
   </a>
   <a href="https://x.com/Maheruf" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://steamcommunity.com/id/maheruf" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
   </a>
   <a href="mailto:maheruf.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
