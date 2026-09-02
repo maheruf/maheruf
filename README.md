@@ -40,7 +40,9 @@
 
 **Game Development:**
 <p align="left">
-  <img src="https://img.shields.io/badge/GEM_Engine-20232A?style=for-the-badge&logo=gamemaker&logoColor=white" alt="GEM Engine" />
+  <a href="https://bestway.com.ua/engines/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GEM_Engine-20232A?style=for-the-badge&logo=gamemaker&logoColor=white" alt="GEM Engine" />
+  </a>
 </p>
 
 ---
