@@ -16,7 +16,7 @@
 - 🔭 I’m currently focusing my studies on web development using **JavaScript** and **TypeScript**.
 - ⚙️ I enjoy configuring and optimizing network hardware, such as setting up multi-WAN load balancing and failover on **OpenWrt** single-board computers.
 - 🤖 I spend time exploring and running local large language models (using tools like **llamafile**) on custom hardware setups.
-- 🎮 I have experience as an **Alpha Tester** for **Men of War II** by [Best Way](https://bestway.com.ua/), where I provided direct feedback on UI/UX improvements, gameplay testing, and bug fixing.
+- 🎮 I have experience as an **Alpha Tester** for **Men of War II** by [Best Way](https://bestway.com.ua/), where I provided direct feedback on UI/UX improvements, gameplay testing, bug fixing and also sound engineering.
 - 🛠️ I actively develop **Steam community mods** for GEM engine titles, including *Men of War II* and *Call to Arms* by DigitalMindsoft.
 - 📝 I use **Notion** and **Discord** to document and share my programming revision notes.
 
