@@ -12,6 +12,10 @@
   Welcome to my GitHub! I am focused on building clean, efficient, and user-friendly web applications, with a strong interest in networking and local AI models. Let's code, design, innovate, and solve.
 </p>
 
+<div align="center">
+  <sub>🌱 Currently exploring: TypeScript React.js</sub>
+</div>
+
 ---
 
 ### 👨‍💻 About Me
