@@ -64,10 +64,18 @@
   <img src="https://img.shields.io/badge/Next.js-374151?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
 </p>
 
+<<<<<<< HEAD
 </details>
 
     </td>
     <td width="50%" valign="top">
+=======
+<!-- <em>To Add new languages and frameworks here as I will learn them.</em>
+
+    </td>
+
+    <td width="50%" valign="top"> -->
+>>>>>>> 92e8498 (Final-Revision-Patch-2-Fixed)
 
 ### Tools & Environments
 
@@ -86,11 +94,15 @@
   <img src="https://img.shields.io/badge/Headscale-4B5563?style=flat-square&logoColor=white" alt="Headscale" />
 </p>
 
+<<<<<<< HEAD
 </details>
+=======
+<!-- <em>To Add new tools and environments here as I will learn them.</em>
+>>>>>>> 92e8498 (Final-Revision-Patch-2-Fixed)
 
     </td>
   </tr>
-</table>
+</table> -->
 
 > **Adding something new?** Just add another badge inside the appropriate `<p>` block. The two-column layout will naturally wrap as the list grows.
 
