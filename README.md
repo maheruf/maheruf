@@ -24,7 +24,7 @@
 - ⚙️ I enjoy configuring and optimizing network hardware, such as setting up multi-WAN load balancing and failover on **OpenWrt** single-board computers.
 - 🤖 I spend time exploring and running local large language models (using tools like **llamafile**) on custom hardware setups.
 - 🎯 Long-term goal: becoming a confident **Full Time Game-Developer**
-- 🎮 I have experience as an **Alpha Tester** for **Men of War II** by [Best Way](https://bestway.com.ua/), where I provided direct feedback on UI/UX improvements, gameplay testing, bug fixing and also sound engineering.
+- 🎮 I have experience as an **Alpha Tester** for **Men of War II** by [Best Way](https://bestway.com.ua/games/), where I provided direct feedback on UI/UX improvements, gameplay testing, bug fixing and also sound engineering.
 - 🛠️ I actively develop **Steam community mods** for GEM engine titles, including *Men of War II* and *Call to Arms* by DigitalMindsoft.
 - 📝 I use **Notion** and **Discord** to document and share my programming revision notes.
 - 📬 Reach me at **maheruf.dev@gmail.com**
@@ -60,10 +60,30 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheruf&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-stats-extended.vercel.app/api?username=maheruf&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheruf&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheruf&theme=dark&hide_border=true&background=0D1117%22%20alt=%22GitHub%20Streak" />
 </div>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=sakibhossainrahim&theme=radical&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/sakibhossainrahim">
+    <img
+      src="https://img.shields.io/badge/View%20My%20Contribution%20Graph-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub Contribution Graph"
+    />
+  </a>
+</p>
 
 ---
 
