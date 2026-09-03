@@ -60,17 +60,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=maheruf&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-stats-extended.vercel.app/api?username=maheruf&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheruf&theme=dark&hide_border=true&background=0D1117%22%20alt=%22GitHub%20Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheruf&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=maheruf&theme=radical&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
 
 ---
 
