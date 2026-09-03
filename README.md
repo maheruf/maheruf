@@ -59,14 +59,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=maheruf&theme=radical&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=maheruf&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheruf&theme=dark&hide_border=true&background=0D1117%22%20alt=%22GitHub%20Streak" />
@@ -77,7 +70,7 @@
     src="https://streak-stats.demolab.com/?user=sakibhossainrahim&theme=radical&hide_border=true"
     alt="GitHub Streak"
   />
-</p> -->
+</p>
 
 ---
 
