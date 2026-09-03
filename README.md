@@ -61,7 +61,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=maheruf&theme=radical&hide_border=true&bg_color=0D1117"
+    src="https://streak-stats.demolab.com/?user=maheruf&theme=radical&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
