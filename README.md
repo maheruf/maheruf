@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently focusing my studies on web development using **JavaScript** and **TypeScript**.
+- 🔭 I’m currently focusing my studies on web development using **JavaScript**, **TypeScript** and modern **frameworks.**.
 - ⚙️ I enjoy configuring and optimizing network hardware, such as setting up multi-WAN load balancing and failover on **OpenWrt** single-board computers.
 - 🤖 I spend time exploring and running local large language models (using tools like **llamafile**) on custom hardware setups.
 - 🎯 Long-term goal: becoming a confident **Full Time Game-Developer**
