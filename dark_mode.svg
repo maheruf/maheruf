@@ -57,7 +57,7 @@ text, tspan {white-space: pre;}
 <text fill="#c9d1d9" font-size="16px">
 <tspan x="447" y="31"><tspan class="title">max@maheruf</tspan> -————————————————————————————————————————————-</tspan>
 <tspan x="447" y="51"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> </tspan><tspan class="cc">...............</tspan><tspan class="cc"> </tspan><tspan class="value">CachyOS (Hyprland), OpenWrt, Windows</tspan></tspan>
-<tspan x="447" y="71"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> </tspan><tspan class="cc">....................</tspan><tspan class="cc"> </tspan><tspan class="value" id="age_data">29 years, 7 months, 26 days</tspan></tspan>
+<tspan x="447" y="71"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> </tspan><tspan class="cc">....................</tspan><tspan class="cc"> </tspan><tspan class="value" id="age_data">32 years, 0 months, 16 days</tspan></tspan>
 <tspan x="447" y="91"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> </tspan><tspan class="cc">.....................</tspan><tspan class="cc"> </tspan><tspan class="value">Full Stack Dev &amp; Game Modder</tspan></tspan>
 <tspan x="447" y="111"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> </tspan><tspan class="cc">................</tspan><tspan class="cc"> </tspan><tspan class="value">Web Apps, GEM Engine &amp; Local AI</tspan></tspan>
 <tspan x="447" y="131"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> </tspan><tspan class="cc">..........................</tspan><tspan class="cc"> </tspan><tspan class="value">VS Code, Notion, Discord</tspan></tspan>
